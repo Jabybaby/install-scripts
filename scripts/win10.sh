@@ -10,7 +10,7 @@ git clone https://github.com/yeyushengfan258/We10X-icon-theme.git
 cd We10X-icon-theme
 ./install.sh -black -dark
 cd ..
-rm -rfWe10X-icon-theme
+rm -rf We10X-icon-theme
 
 git clone https://github.com/Jabybaby/We10XOS-widgets.git
 cd We10XOS-widgets
